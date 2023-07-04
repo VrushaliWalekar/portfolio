@@ -112,7 +112,9 @@ section {
 
 img {
     object-fit: contain;
-    max-width: 100%;
+    /* width: 450px; */
+    /* height: 50%; */
+    max-width: 70%;
 }
 
 /* --------------------------------------- */
